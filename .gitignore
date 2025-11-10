@@ -1,0 +1,39 @@
+@'
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# Node / React
+node_modules/
+.next/
+dist/
+build/
+
+# System
+.DS_Store
+Thumbs.db
+
+# ML / Data Files
+*.pkl
+*.pt
+*.h5
+*.hdf5
+*.joblib
+*.csv
+*.json
+*.npz
+*.npy
+
+# Logs
+*.log
+'@ | Out-File -Encoding UTF8 .gitignore

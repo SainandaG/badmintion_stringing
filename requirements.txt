@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+neo4j
+requests
+python-dotenv
+streamlit
+pyvis
+plotly
+scikit-learn
+joblib
+twilio
+openai
+ortools
