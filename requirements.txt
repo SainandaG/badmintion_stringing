@@ -1,0 +1,34 @@
+# -------------------------
+# Core Backend Framework
+# -------------------------
+fastapi==0.115.2
+uvicorn==0.30.1
+python-dotenv==1.0.1
+requests==2.32.3
+openai==1.45.0
+
+# -------------------------
+# Graph Database (Neo4j)
+# -------------------------
+neo4j==5.25.0
+
+# -------------------------
+# Frontend (Streamlit UI)
+# -------------------------
+streamlit==1.39.0
+pyvis==0.3.2
+plotly==5.24.1
+geopy==2.5.0
+
+# -------------------------
+# ML / Optimization
+# -------------------------
+scikit-learn==1.5.2
+joblib==1.4.2
+ortools==9.10.4067
+numpy==1.26.4
+
+# -------------------------
+# Communication (Optional)
+# -------------------------
+twilio==9.3.3
